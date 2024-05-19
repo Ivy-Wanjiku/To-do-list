@@ -1,0 +1,37 @@
+#content{
+    display: flex;
+}
+#content img{
+    margin-left: 2%;
+}
+#logo img{
+    width: 8%;
+    height: 20%;
+    margin-top: 4%;
+}
+#logo{
+    display: flex;
+    margin-left: 40%;
+    gap: 2%;
+}
+h1{
+    font-size: 300%;
+    color: rgb(22,32,97);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    color: rgb(22,32,97);
+    font-size: 200%;  
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    margin-left: 50%;
+    margin-bottom: 3%; 
+    font-size: large;
+    border-radius: 10px 12px;
+    padding: 1%;
+    background-color: rgb(22,32,97);
+    color: white;
+}
